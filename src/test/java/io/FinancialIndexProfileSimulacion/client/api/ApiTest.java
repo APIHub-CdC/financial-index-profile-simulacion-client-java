@@ -1,9 +1,10 @@
-package io.MadurezSimulacion.client.api;
+package io.FinancialIndexProfileSimulacion.client.api;
 
-import io.MadurezSimulacion.client.ApiClient;
-import io.MadurezSimulacion.client.api.ApiTest;
-import io.MadurezSimulacion.client.ApiException;
-import io.MadurezSimulacion.client.model.Respuesta;
+import io.FinancialIndexProfileSimulacion.client.ApiClient;
+import io.FinancialIndexProfileSimulacion.client.ApiException;
+import io.FinancialIndexProfileSimulacion.client.api.ApiTest;
+import io.FinancialIndexProfileSimulacion.client.api.MadurezApi;
+import io.FinancialIndexProfileSimulacion.client.model.Respuesta;
 import okhttp3.OkHttpClient;
 
 import org.junit.Test;

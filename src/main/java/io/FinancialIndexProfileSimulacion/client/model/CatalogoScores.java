@@ -1,4 +1,4 @@
-package io.MadurezSimulacion.client.model;
+package io.FinancialIndexProfileSimulacion.client.model;
 
 import java.io.IOException;
 import com.google.gson.TypeAdapter;

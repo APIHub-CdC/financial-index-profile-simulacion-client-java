@@ -1,10 +1,11 @@
-package io.MadurezSimulacion.client.model;
+package io.FinancialIndexProfileSimulacion.client.model;
 
 import java.util.Objects;
 import com.google.gson.annotations.SerializedName;
+
+import io.FinancialIndexProfileSimulacion.client.model.CatalogoExclusion;
+import io.FinancialIndexProfileSimulacion.client.model.CatalogoScores;
 import io.swagger.annotations.ApiModelProperty;
-import io.MadurezSimulacion.client.model.CatalogoExclusion;
-import io.MadurezSimulacion.client.model.CatalogoScores;
 
 public class Respuesta {
   @SerializedName("folioScore")

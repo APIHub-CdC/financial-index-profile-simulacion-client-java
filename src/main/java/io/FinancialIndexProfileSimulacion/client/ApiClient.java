@@ -1,4 +1,4 @@
-package io.MadurezSimulacion.client;
+package io.FinancialIndexProfileSimulacion.client;
 
 import org.threeten.bp.LocalDate;
 import org.threeten.bp.OffsetDateTime;
