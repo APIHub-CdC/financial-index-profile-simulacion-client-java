@@ -1,4 +1,4 @@
-package io.MadurezSimulacion.client.model;
+package io.FinancialIndexProfileSimulacion.client.model;
 
 import java.util.Objects;
 import com.google.gson.annotations.SerializedName;

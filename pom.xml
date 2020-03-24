@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>io.MadurezSimulacion</groupId>
-    <artifactId>madurez-simulacion-client-java</artifactId>
+    <groupId>io.FinancialIndexProfileSimulacion</groupId>
+    <artifactId>financial-index-profile-simulacion-client-java</artifactId>
     <packaging>jar</packaging>
-    <name>madurez-simulacion-client-java</name>
+    <name>financial-index-profile-simulacion-client-java</name>
     <version>1.0.0</version>
     <licenses>
         <license>

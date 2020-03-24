@@ -1,9 +1,11 @@
-package io.MadurezSimulacion.client.model;
+package io.FinancialIndexProfileSimulacion.client.model;
 
 import java.util.Objects;
 import com.google.gson.annotations.SerializedName;
+
+import io.FinancialIndexProfileSimulacion.client.model.Error;
 import io.swagger.annotations.ApiModelProperty;
-import io.MadurezSimulacion.client.model.Error;
+
 import java.util.ArrayList;
 import java.util.List;
 
