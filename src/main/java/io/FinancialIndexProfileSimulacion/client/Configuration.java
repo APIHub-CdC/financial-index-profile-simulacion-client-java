@@ -1,4 +1,4 @@
-package io.MadurezSimulacion.client;
+package io.FinancialIndexProfileSimulacion.client;
 
 
 public class Configuration {

@@ -1,4 +1,4 @@
-package io.MadurezSimulacion.client;
+package io.FinancialIndexProfileSimulacion.client;
 
 import java.util.Map;
 import java.util.List;

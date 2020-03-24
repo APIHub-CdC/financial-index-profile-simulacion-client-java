@@ -1,18 +1,17 @@
-package io.MadurezSimulacion.client.api;
-
-import io.MadurezSimulacion.client.ApiClient;
-import io.MadurezSimulacion.client.ApiException;
-import io.MadurezSimulacion.client.ApiResponse;
-import io.MadurezSimulacion.client.Configuration;
-import io.MadurezSimulacion.client.Pair;
-import io.MadurezSimulacion.client.ProgressRequestBody;
-import io.MadurezSimulacion.client.ProgressResponseBody;
+package io.FinancialIndexProfileSimulacion.client.api;
 
 import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 
-import io.MadurezSimulacion.client.model.Respuesta;
+import io.FinancialIndexProfileSimulacion.client.ApiClient;
+import io.FinancialIndexProfileSimulacion.client.ApiException;
+import io.FinancialIndexProfileSimulacion.client.ApiResponse;
+import io.FinancialIndexProfileSimulacion.client.Configuration;
+import io.FinancialIndexProfileSimulacion.client.Pair;
+import io.FinancialIndexProfileSimulacion.client.ProgressRequestBody;
+import io.FinancialIndexProfileSimulacion.client.ProgressResponseBody;
+import io.FinancialIndexProfileSimulacion.client.model.Respuesta;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
